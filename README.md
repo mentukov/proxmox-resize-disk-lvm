@@ -1,5 +1,5 @@
 ### For proxmox - resize lvm disk
-first increase/resize disque  from  GUI console.
+first increase vm disk from  GUI console.
 
 ### Console vm (ubuntu vm)
 1. check disk size and number of partition
